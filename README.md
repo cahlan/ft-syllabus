@@ -111,6 +111,7 @@
   - [Learn Git](https://github.com/DevMountain/learn-git)
 - Additional Reading:
   - [Getting Started with Git](http://git-scm.com/book/en/v2/Getting-Started-About-Version-Control)
+  - [Learn git branching](https://pcottle.github.io/learnGitBranching/?NODEMO)
 
 #### <a name="day12"></a> Day 2 - HTML & CSS Fundamentals
 - Pre-Reading:
